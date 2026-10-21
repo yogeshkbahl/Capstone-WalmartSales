@@ -1,5 +1,7 @@
 # Walmart Weekly Sales Analytics
 
+▶️ **Run it live in your browser (no install, no login):** [Launch notebook](https://yogeshkbahl.github.io/walmart-sales-live/notebooks/index.html?path=walmart_sales.ipynb)
+
 A comprehensive data science analysis of Walmart's weekly sales across multiple stores, examining correlations with economic indicators and forecasting future sales trends.
 
 ## Description
