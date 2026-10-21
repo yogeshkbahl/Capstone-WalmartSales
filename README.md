@@ -2,6 +2,8 @@
 
 ▶️ **Run it live in your browser (no install, no login):** [Launch notebook](https://yogeshkbahl.github.io/walmart-sales-live/notebooks/index.html?path=walmart_sales.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yogeshkbahl/Capstone-WalmartSales/blob/main/Capstone_Project_%28Walmart%29.ipynb)
+
 A comprehensive data science analysis of Walmart's weekly sales across multiple stores, examining correlations with economic indicators and forecasting future sales trends.
 
 ## Description
@@ -44,7 +46,7 @@ This project analyzes 6,435 records of Walmart weekly sales data spanning multip
 ### Running the Analysis
 
 1. **Open the Notebook**: Launch `Capstone_Project__Walmart_.ipynb` in Jupyter or Colab
-2. **Load Dataset**: Execute the initial cells to install dependencies and load the Walmart dataset
+2. **Load Dataset**: Execute the initial cells to install dependencies; the dataset loads automatically from GitHub (no upload needed)
 3. **Data Exploration**: Run the data cleaning and inspection sections to understand data structure
 4. **Analysis Sections**: Execute sections sequentially:
    - Correlation Analysis (overall and per-store)
