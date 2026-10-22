@@ -1,6 +1,6 @@
 # Walmart Weekly Sales Analytics
 
-▶️ **Run it live in your browser (no install, no login):** [Launch notebook](https://yogeshkbahl.github.io/walmart-sales-live/notebooks/index.html?path=walmart_sales.ipynb)
+▶️ **Run it in your browser with one click (no install needed):**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yogeshkbahl/Capstone-WalmartSales/blob/main/Capstone_Project_%28Walmart%29.ipynb)
 
